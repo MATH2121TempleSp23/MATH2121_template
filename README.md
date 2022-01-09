@@ -1,4 +1,4 @@
 # MATH2121 -- Homework #0
-[Name]
+[Enter Name]
 
 Spring 2022
