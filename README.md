@@ -1,2 +1,3 @@
-# MATH2121_template
-This is a template repository for assignments in MATH2121.
+# MATH2121 -- Homework #0
+[Name]
+Spring 2022
